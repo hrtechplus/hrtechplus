@@ -30,13 +30,13 @@ Developed an intuitive Android app for taking notes, ensuring users can capture 
 
 ## 📱 Connect with Me
 
-- **Instagram**: [@hrtechplus](https://www.instagram.com/hrtechplus)
-- **LinkedIn**: [Hasindu Rangika](https://www.linkedin.com/in/hrtechplus)
+- **Instagram**: [@hrtechplus](https://www.instagram.com/hasinduonline)
+- **LinkedIn**: [Hasindu Rangika](https://www.linkedin.com/in/hasinduonline)
 - **GitHub**: [@hrtechplus](https://github.com/hrtechplus)
 
 ## 🏆 Certifications
 
-- **HackerRank**: [Certificate Link](https://www.hackerrank.com/hrtechplus)
+- **HackerRank**: [Certificate Link](https://www.hackerrank.com/certificates/6c1705b51331)
 
 ## 📈 GitHub Stats
 
