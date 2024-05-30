@@ -1,4 +1,3 @@
-Sure! Here's a more visually appealing README file using GitHub Markdown formatting:
 
 ---
 
