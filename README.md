@@ -1,13 +1,14 @@
+Here's an edited version of your README file with the requested changes:
 
 ---
 
 # Hi there! 👋 Welcome to my GitHub!
 
-I'm **Hasindu Rangika**, a passionate IT student with a love for coding and technology. Here you'll find a collection of my projects, contributions, and explorations in the world of software development.
+I'm **Hasindu Rangika**, an SE student passionate about coding and technology. This is where I showcase my projects, contributions, and explorations in software development.
 
 ## About Me
 
-🎓 I'm currently pursuing a degree in IT at **SLIIT**, where I'm honing my skills in programming, web development, and database management. Beyond academia, I enjoy working on real-world projects, learning new technologies, and sharing my knowledge with others.
+🎓 Currently pursuing a degree in SE at **SLIIT**, I'm focused on programming, web development, and database management. I'm always eager to work on real-world projects, learn new technologies, and share my knowledge.
 
 ## 🌟 Projects
 
@@ -27,25 +28,27 @@ Collaborated with a USA-based client to create a complete real estate platform t
 Developed an intuitive Android app for taking notes, ensuring users can capture their thoughts and ideas effortlessly on-the-go.  
 [Repository Link](https://github.com/hrtechplus/note-taking-app)
 
+## 💻 Tech Stack
+
+- **MERN** (MongoDB, Express.js, React, Node.js)
+- HTML, JavaScript, Tailwind CSS, Next.js
+- Spring, React
+- Android, Kotlin, Java
+
 ## 📱 Connect with Me
 
 - **Instagram**: [@hrtechplus](https://www.instagram.com/hasinduonline)
 - **LinkedIn**: [Hasindu Rangika](https://www.linkedin.com/in/hasinduonline)
 - **GitHub**: [@hrtechplus](https://github.com/hrtechplus)
 
-## 🏆 Certifications
-
-- **HackerRank**: [Certificate Link](https://www.hackerrank.com/certificates/6c1705b51331)
-
 ## 📈 GitHub Stats
 
-![Hasindu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hrtechplus&show_icons=true&theme=radical)
+![Hasindu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hrtechplus&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hrtechplus&layout=compact&theme=radical)
 
-## 📂 Repositories
+## 👥 Contributions
 
-<a href="https://github.com/hrtechplus?tab=repositories">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hrtechplus&layout=compact&theme=radical" />
-</a>
+Check out all my contributions [here](https://github.com/hrtechplus?tab=repositories).
 
 ## 🤝 Let's Collaborate
 
@@ -57,4 +60,4 @@ Thank you for visiting my GitHub profile! I hope you find my projects interestin
 
 ---
 
-
+This version is more concise, includes the tech stack, and highlights your contributions and profile views.
