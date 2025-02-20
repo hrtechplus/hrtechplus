@@ -1,5 +1,8 @@
 #  About Me:
 Hello! I'm Hasindu, and I'm based in Sri Lanka. I study at SLIIT, where I do my Bachelor in Software Development.<br><br>Fastforward to today, and I can honestly say it's been a beautiful journery and I hope to grow even further as Software Engineer. My current focus these days is on expanidng my portfolio by building more projects that I can add on here, as well as being a great team player at my current role.<br>
+##You are the:
+# 📈 Profile Views:
+![Profile Views](https://visitor-badge.glitch.me/badge?page_id=hrtechplus.hrtechplus)
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/hasinduonline) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hasinduonline) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hasinduonline) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@hasinduonline) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rawart.media@gmail.com) 
