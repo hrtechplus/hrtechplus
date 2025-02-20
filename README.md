@@ -1,5 +1,6 @@
 #  About Me:
 Hello! I'm Hasindu, and I'm based in Sri Lanka. I study at SLIIT, where I do my Bachelor in Software Development.<br><br>Fastforward to today, and I can honestly say it's been a beautiful journery and I hope to grow even further as Software Engineer. My current focus these days is on expanidng my portfolio by building more projects that I can add on here, as well as being a great team player at my current role.<br>
+[![Website](https://img.shields.io/badge/Website-%2300B0B9?style=for-the-badge&logo=ghost&logoColor=white)](https://www.hasindu.me)
 
 # 📈 Profile Views:
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hrtechplus&label=Profile%20views&color=0e75b6&style=flat" alt="hrtechplus" /> </p>
