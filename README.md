@@ -1,63 +1,25 @@
-Here's an edited version of your README file with the requested changes:
+<h3 align="center">A passionate frontend developer from India</h3>
 
----
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hrtechplus&label=Profile%20views&color=0e75b6&style=flat" alt="hrtechplus" /> </p>
 
-# Hi there! 👋 Welcome to my GitHub!
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hrtechplus" alt="hrtechplus" /></a> </p>
 
-I'm **Hasindu Rangika**, an SE student passionate about coding and technology. This is where I showcase my projects, contributions, and explorations in software development.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/hrtechplus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hrtechplus" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/hasinduonline" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hasinduonline" height="30" width="40" /></a>
+<a href="https://fb.com/hasinduonline" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hasinduonline" height="30" width="40" /></a>
+<a href="https://instagram.com/hasinduonline" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hasinduonline" height="30" width="40" /></a>
+<a href="https://medium.com/@hasinduonline" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@hasinduonline" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/hasinduonline" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hasinduonline" height="30" width="40" /></a>
+</p>
 
-## About Me
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
 
-🎓 Currently pursuing a degree in SE at **SLIIT**, I'm focused on programming, web development, and database management. I'm always eager to work on real-world projects, learn new technologies, and share my knowledge.
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/hasinduonline"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="hasinduonline" /></a></p><br><br>
 
-## 🌟 Projects
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hrtechplus&show_icons=true&theme=dark&locale=en&layout=compact" alt="hrtechplus" /></p>
 
-### Sinhala-English Dictionary (MERN)
-A comprehensive dictionary application built using the MERN stack, helping users translate between Sinhala and English seamlessly.  
-[Repository Link](https://github.com/hrtechplus/sinhala-english-dictionary)
-
-### School Website (HTML/Tailwind CSS/JS)
-Designed and developed a modern and user-friendly website for my school using HTML, Tailwind CSS, and JavaScript.  
-[Repository Link](https://github.com/hrtechplus/school-website)
-
-### Real Estate Platform
-Collaborated with a USA-based client to create a complete real estate platform tailored to their specific needs.  
-[Repository Link](https://github.com/hrtechplus/real-estate-platform)
-
-### Note-taking Android Application
-Developed an intuitive Android app for taking notes, ensuring users can capture their thoughts and ideas effortlessly on-the-go.  
-[Repository Link](https://github.com/hrtechplus/note-taking-app)
-
-## 💻 Tech Stack
-
-- **MERN** (MongoDB, Express.js, React, Node.js)
-- HTML, JavaScript, Tailwind CSS, Next.js
-- Spring, React
-- Android, Kotlin, Java
-
-## 📱 Connect with Me
-
-- **Instagram**: [@hrtechplus](https://www.instagram.com/hasinduonline)
-- **LinkedIn**: [Hasindu Rangika](https://www.linkedin.com/in/hasinduonline)
-- **GitHub**: [@hrtechplus](https://github.com/hrtechplus)
-
-## 📈 GitHub Stats
-
-![Hasindu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hrtechplus&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hrtechplus&layout=compact&theme=radical)
-
-## 👥 Contributions
-
-Check out all my contributions [here](https://github.com/hrtechplus?tab=repositories).
-
-## 🤝 Let's Collaborate
-
-I'm always open to collaboration and learning opportunities. Whether it's contributing to open-source projects or discussing potential projects, feel free to reach out!
-
----
-
-Thank you for visiting my GitHub profile! I hope you find my projects interesting and inspiring. Don't hesitate to get in touch if you have any questions or just want to connect.
-
----
-
-This version is more concise, includes the tech stack, and highlights your contributions and profile views.
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hrtechplus&show_icons=true&locale=en" alt="hrtechplus" /></p>
