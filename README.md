@@ -19,9 +19,7 @@ Hello! I'm Hasindu, and I'm based in Sri Lanka. I study at SLIIT, where I do my 
 ![](https://github-profile-trophy.vercel.app/?username=hrtechplus&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
-![Profile Views](https://visitor-badge.glitch.me/badge?page_id=hrtechplus.hrtechplus)
 
-[![](https://visitcount.itsvg.in/api?id=hrtechplus&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ## 💰 You can help me by Donating
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/hasinduonline) 
