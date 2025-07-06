@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  I'm a student at <strong>SLIIT</strong>, pursuing my Bachelor's in Software Development. It's been a beautiful journey so far, and I'm excited to grow even further as a Software Engineer. My current focus is on expanding my portfolio by building meaningful projects and being a great team player in my current and future roles.
+  I'm a student at <strong>SLIIT</strong>, pursuing my Bachelor's in Software Development. It's been a beautiful journey so far, and I'm excited to grow even further as a Software Engineer. My current focus is on expanding my portfolio by building meaningful projects and being a great team player in my current and future roles.| AI Engineering @ Tribird AS
 </p>
 
 <p align="center">
