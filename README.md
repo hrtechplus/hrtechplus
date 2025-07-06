@@ -1,29 +1,66 @@
-#  About Me:
-Hello! I'm Hasindu, and I'm based in Sri Lanka. I study at SLIIT, where I do my Bachelor in Software Development.<br><br>Fastforward to today, and I can honestly say it's been a beautiful journery and I hope to grow even further as Software Engineer. My current focus these days is on expanidng my portfolio by building more projects that I can add on here, as well as being a great team player at my current role.<be>
-<br>
-<br>
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00B0B9&center=true&width=435&lines=Hi+there%2C+I'm+Hasindu!+%F0%9F%91%8B;I'm+a+Software+Development+Student;Based+in+beautiful+Sri+Lanka+%F0%9F%87%B1%F0%9F%87%B0" alt="Typing SVG" /></a>
+</p>
 
-[![www.hasindu.me](https://img.shields.io/badge/www.hasindu.me-%2300B0B9?style=for-the-badge&logo=ghost&logoColor=white)](https://www.hasindu.me)
+<p align="center">
+  I'm a student at <strong>SLIIT</strong>, pursuing my Bachelor's in Software Development. It's been a beautiful journey so far, and I'm excited to grow even further as a Software Engineer. My current focus is on expanding my portfolio by building meaningful projects and being a great team player in my current and future roles.
+</p>
 
-# 📈 Profile Views:
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hrtechplus&label=Profile%20views&color=0e75b6&style=flat" alt="hrtechplus" /> </p>
-
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/hasinduonline) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hasinduonline) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hasinduonline) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@hasinduonline) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rawart.media@gmail.com) 
-
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=hrtechplus&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=hrtechplus&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=hrtechplus&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=hrtechplus&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<p align="center">
+  <a href="https://www.hasindu.me">
+    <img src="https://img.shields.io/badge/www.hasindu.me-00B0B9?style=for-the-badge&logo=ghost&logoColor=white" alt="Portfolio Website">
+  </a>
+  <a href="https://linkedin.com/in/hasinduonline">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://twitter.com/hasinduonline">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+   <a href="https://medium.com/@hasinduonline">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
+  </a>
+</p>
 
 ---
 
+### 🚀 My Tech Stack
 
-## 💰 You can help me by Donating
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/hasinduonline) 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,java,javascript,react,html,figma,git,nodejs,postgres&perline=5" />
+  </a>
+</p>
+
+---
+
+### 💡 My Projects
+
+*I'm currently working on adding my key projects here. Stay tuned!*
+
+---
+
+### 📊 My GitHub Stats & Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hrtechplus&theme=vue-dark&show_icons=true&hide_border=true&include_all_commits=true" alt="Hasindu's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hrtechplus&theme=vue-dark&hide_border=true" alt="Hasindu's GitHub Streak" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hrtechplus&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=hrtechplus&theme=dracula&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=hrtechplus&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+</p>
+
+---
+
+### ☕ Support My Work
+
+<p align="center">
+  <a href="https://buymeacoffee.com/hasinduonline" target="_blank">
+    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee">
+  </a>
+</p>
