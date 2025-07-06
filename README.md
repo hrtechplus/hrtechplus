@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=C792EA&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Hasindu;A+Passionate+Software+Engineer;From+beautiful+Sri+Lanka+%F0%9F%87%B1%F0%9F%87%B0" alt="Animated typing text" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=C792EA&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Hasindu;A+Passionate+AI+Engineer;From+beautiful+Sri+Lanka+%F0%9F%87%B1%F0%9F%87%B0" alt="Animated typing text" />
 </a>
 
 <br>
